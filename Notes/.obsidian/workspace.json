@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "fbc92e8260ddfc78",
+    "type": "split",
+    "children": [
+      {
+        "id": "85550dcb66bddb1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3275d9ae757bfb02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scan/Nmap/Nmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nmap"
+            }
+          },
+          {
+            "id": "9d3bcb2c1892bc1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index🗒️.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index🗒️"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd60fd5f95aa9f6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d7a16916aa4b724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1461c5e283ff0e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e59700382e427e17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9cea4eea9117029",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ceaf4a9b0f015fa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "edaf8978a0f186fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "987ee10a08b5b9cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scan/Nmap/Nmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nmap"
+            }
+          },
+          {
+            "id": "65bdb4623f498e97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scan/Nmap/Nmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nmap"
+            }
+          },
+          {
+            "id": "d20714771d95f9ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f3edec1b08c2b7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3275d9ae757bfb02",
+  "lastOpenFiles": [
+    "CMS 🌐/WordPress/WordPress.md",
+    "Scan/Nmap/Nmap.md",
+    "CMS 🌐/WordPress/WPScan.md",
+    "Scan/Untitled 2",
+    "Scan/Untitled 1",
+    "Scan/Nmap",
+    "Scan",
+    "CMS 🌐/WordPress/XMLRPC.md",
+    "Index🗒️.md",
+    "Content Management System.md",
+    "CMS 🌐/Magento/Magento.md",
+    "CMS 🌐/Joomla/Joomla.md",
+    "CMS 🌐/Drupal/Drupal.md",
+    "CMS 🌐/WordPress/Pasted image 20250126173135.png",
+    "Tools 🛠️.md",
+    "To-Do ✅.md",
+    "CMS 🌐/Magento",
+    "CMS 🌐/Drupal",
+    "CMS 🌐/Joomla",
+    "CMS 🌐/WordPress",
+    "CMS 🌐"
+  ]
+}
