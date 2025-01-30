@@ -14,3 +14,8 @@ More information about this tool [here](https://nmap.org/)
 
 ---
 # Explaining this command
+### Basic use
+Know the ports that are open in a host:
+```shell
+nmap -p22 192.168.111.1
+```
