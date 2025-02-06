@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Osint/Dehashed.md",
+                "file": "Scan/Fuzzing/Active way/Ffuf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dehashed"
+              "title": "Ffuf"
             }
           },
           {
@@ -178,15 +178,16 @@
   },
   "active": "77d719d5f3426c76",
   "lastOpenFiles": [
-    "Osint/Facial recognition.md",
     "Osint/Dehashed.md",
+    "Scan/Fuzzing/Active way/Ffuf.md",
+    "Osint/Facial recognition.md",
     "Osint/Osint.md",
-    "Scan/List subdomains/Active way/Wfuzz.md",
+    "Scan/Fuzzing/Active way/Wfuzz.md",
     "2025-02-05.md",
     "Untitled.canvas",
-    "Scan/List subdomains/Active way/Gobuster.md",
-    "Scan/List subdomains/Active way",
-    "Scan/List subdomains/Passive way",
+    "Scan/Fuzzing/Active way/Gobuster.md",
+    "Scan/Fuzzing/Active way",
+    "Scan/Fuzzing/Passive way",
     "Osint/Obtain e-mails.md",
     "Scan/Arp Scan/Arp Scan.md",
     "Osint",
@@ -203,7 +204,7 @@
     "Taller.md",
     "Content Management System.md",
     "Networking Concepts",
-    "Scan/List subdomains",
+    "Scan/Fuzzing",
     "Scan/Arp Scan",
     "Scan/Nmap",
     "Scan",
@@ -213,7 +214,6 @@
     "CMS 🌐/Drupal/Drupal.md",
     "CMS 🌐/WordPress/Pasted image 20250126173135.png",
     "Tools 🛠️.md",
-    "To-Do ✅.md",
     "CMS 🌐/Magento",
     "CMS 🌐/Drupal"
   ]
