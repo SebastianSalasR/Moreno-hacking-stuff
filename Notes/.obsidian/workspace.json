@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking Concepts/TTL.md",
+                "file": "Scan/Enumeration of services/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTL"
+              "title": "Untitled"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "ceaf4a9b0f015fa1",
@@ -166,11 +166,31 @@
   },
   "active": "77d719d5f3426c76",
   "lastOpenFiles": [
+    "Networking Concepts/Protocols/SMB.md",
+    "Scan/Enumeration of services/Untitled.md",
+    "Networking Concepts/SAMBA.md",
+    "CMS 🌐/WordPress/WordPress.md",
+    "CMS 🌐/WordPress/WPScan.md",
     "Networking Concepts/Ports.md",
+    "Scan/Enumeration of services/HTTP and HTTPS Security Testing.md",
+    "vulnerabilities/HEARTBLEED.md",
+    "vulnerabilities",
+    "Scan/Enumeration of services/SSH Security Testing with Hydra.md",
+    "Scan/Enumeration of services/FTP Security Testing with Anonymous Login and Hydra.md",
+    "Networking Concepts/Protocols/HTTP & HTTPS.md",
+    "Networking Concepts/services/SSH.md",
+    "Networking Concepts/services/FTP.md",
+    "Networking Concepts/services/DNS.md",
     "Networking Concepts/TTL.md",
-    "Networking Concepts/DNS.md",
-    "Networking Concepts/TCP.md",
-    "Networking Concepts/UDP.md",
+    "Networking Concepts/Protocols",
+    "Networking Concepts/Protocols/TCP.md",
+    "Networking Concepts/Protocols/UDP.md",
+    "Scan/Enumeration of services/Untitled",
+    "Networking Concepts/services",
+    "Scan/Nmap/Nmap Parameters.md",
+    "Scan/Enumeration of services",
+    "Scan/Nmap/Nmap.md",
+    "Scan/Fuzzing/Active way/Ffuf.md",
     "Osint/Obtain information/Google Dorks.md",
     "CMS 🌐/Tools 🛠️.md",
     "Pentest Tools.md",
@@ -179,30 +199,10 @@
     "Osint/Obtain credentials",
     "Osint/Obtain credentials/Obtain e-mails.md",
     "Osint/Obtain information/Facial recognition.md",
-    "Dudas estacion meteoroligica.md",
-    "Content Management System.md",
-    "Drawing 2025-02-07 16.01.17.excalidraw.md",
     "Untitled.canvas",
-    "Scan/Fuzzing/Passive way/Phonebook.md",
-    "Scan/Fuzzing/Active way/Ffuf.md",
-    "Scan/Fuzzing/Passive way/Sublister.md",
-    "Osint/Osint.md",
-    "Scan/Fuzzing/Active way/Wfuzz.md",
-    "2025-02-05.md",
-    "Scan/Fuzzing/Active way/Gobuster.md",
     "Scan/Fuzzing/Active way",
     "Scan/Fuzzing/Passive way",
-    "Scan/Arp Scan/Arp Scan.md",
     "Osint",
-    "Scan/Nmap/Nmap scan versions and vulns.md",
-    "Scan/Nmap/Nmap.md",
-    "Scan/Nmap/Nmap Parameters.md",
-    "CMS 🌐/WordPress/WPScan.md",
-    "Networking Concepts",
-    "Scan/Fuzzing",
-    "Scan/Arp Scan",
-    "Scan/Nmap",
-    "Scan",
     "CMS 🌐/WordPress/Pasted image 20250126173135.png"
   ]
 }
