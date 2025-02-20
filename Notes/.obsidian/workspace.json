@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scan/Enumeration of services/Untitled.md",
+                "file": "Scan/Enumeration of services/SMB Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "SMB Enumeration"
             }
           }
         ]
@@ -164,10 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77d719d5f3426c76",
+  "active": "d1461c5e283ff0e4",
   "lastOpenFiles": [
     "Networking Concepts/Protocols/SMB.md",
-    "Scan/Enumeration of services/Untitled.md",
+    "Scan/Enumeration of services/SMB Enumeration.md",
     "Networking Concepts/SAMBA.md",
     "CMS 🌐/WordPress/WordPress.md",
     "CMS 🌐/WordPress/WPScan.md",

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<methodCall>
+  <methodName>pingback.ping</methodName>
+  <params>
+    <param><value><string>https://youtube.com</string></value></param>
+    <param><value><string>http://informatica.uach.cl</string></value></param>
+  </params>
+</methodCall>'
