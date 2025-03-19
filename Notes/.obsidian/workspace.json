@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scan/Enumeration of services/SMB Enumeration.md",
+                "file": "01 - CMS 🌐/WordPress/WPScan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB Enumeration"
+              "title": "WPScan"
+            }
+          },
+          {
+            "id": "091ec80a91cb120a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Networking Concepts/Protocols/03 - Transport Layer/TCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 285.5
   },
   "right": {
     "id": "ceaf4a9b0f015fa1",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scan/Nmap/Nmap.md",
+                "file": "Taller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nmap"
+              "title": "Backlinks for Taller"
             }
           },
           {
@@ -155,54 +170,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d1461c5e283ff0e4",
+  "active": "091ec80a91cb120a",
   "lastOpenFiles": [
-    "Networking Concepts/Protocols/SMB.md",
-    "Scan/Enumeration of services/SMB Enumeration.md",
-    "Networking Concepts/SAMBA.md",
-    "CMS 🌐/WordPress/WordPress.md",
-    "CMS 🌐/WordPress/WPScan.md",
-    "Networking Concepts/Ports.md",
-    "Scan/Enumeration of services/HTTP and HTTPS Security Testing.md",
-    "vulnerabilities/HEARTBLEED.md",
-    "vulnerabilities",
-    "Scan/Enumeration of services/SSH Security Testing with Hydra.md",
-    "Scan/Enumeration of services/FTP Security Testing with Anonymous Login and Hydra.md",
-    "Networking Concepts/Protocols/HTTP & HTTPS.md",
-    "Networking Concepts/services/SSH.md",
-    "Networking Concepts/services/FTP.md",
-    "Networking Concepts/services/DNS.md",
-    "Networking Concepts/TTL.md",
-    "Networking Concepts/Protocols",
-    "Networking Concepts/Protocols/TCP.md",
-    "Networking Concepts/Protocols/UDP.md",
+    "02 - Networking Concepts/Protocols/03 - Transport Layer/UDP.md",
+    "02 - Networking Concepts/Protocols/03 - Transport Layer/TCP.md",
+    "01 - CMS 🌐/WordPress/WPScan.md",
+    "02 - Networking Concepts/Protocols/01 - Network Access Layer/Ethernet.md",
+    "02 - Networking Concepts/Protocols/01 - Network Access Layer/MAC.md",
+    "01 - CMS 🌐/WordPress/XMLRPC.md",
+    "Content Management System.md",
+    "01 - CMS 🌐/Joomla/Joomla.md",
+    "01 - CMS 🌐/Magento/Magento.md",
+    "01 - CMS 🌐/WordPress/WordPress.md",
+    "01 - CMS 🌐/WordPress/Pasted image 20250126173135.png",
+    "01 - CMS 🌐/Drupal/Drupal.md",
+    "00 - Basic concepts about enumeration and exploiting/Bind Shell.md",
+    "02 - Networking Concepts/Protocols/02 - Internet Layer/ARP.md",
+    "02 - Networking Concepts/Protocols/Packet Switching.md",
+    "02 - Networking Concepts/Protocols/01 - Network Access Layer",
+    "02 - Networking Concepts/services/SAMBA.md",
+    "02 - Networking Concepts/Protocols/04 - Application Layer/DNS.md",
+    "02 - Networking Concepts/Protocols/04 - Application Layer/DHCP.md",
+    "02 - Networking Concepts/Protocols/02 - Internet Layer/IP.md",
+    "02 - Networking Concepts/Protocols/02 - Internet Layer/ICMP.md",
+    "02 - Networking Concepts/Protocols/04 - Application Layer/FTP.md",
+    "02 - Networking Concepts/Protocols/04 - Application Layer/HTTP & HTTPS.md",
+    "02 - Networking Concepts/Protocols/04 - Application Layer/SMB.md",
+    "02 - Networking Concepts/Protocols/04 - Application Layer/SSH.md",
+    "02 - Networking Concepts/Ports.md",
+    "02 - Networking Concepts/Protocols/02 - Internet Layer",
+    "02 - Networking Concepts/Protocols/03 - Transport Layer",
+    "02 - Networking Concepts/Protocols/04 - Application Layer",
+    "Index🗒️.md",
+    "99 - Estacionmeteorologica/TODOS.md",
+    "99 - Estacionmeteorologica",
+    "00 - Basic concepts about enumeration and exploiting",
+    "05 - vulnerabilities",
+    "02 - Networking Concepts/Protocols",
     "Scan/Enumeration of services/Untitled",
-    "Networking Concepts/services",
-    "Scan/Nmap/Nmap Parameters.md",
-    "Scan/Enumeration of services",
-    "Scan/Nmap/Nmap.md",
-    "Scan/Fuzzing/Active way/Ffuf.md",
-    "Osint/Obtain information/Google Dorks.md",
-    "CMS 🌐/Tools 🛠️.md",
-    "Pentest Tools.md",
-    "Osint/Obtain credentials/Dehashed.md",
-    "Osint/Obtain information",
-    "Osint/Obtain credentials",
-    "Osint/Obtain credentials/Obtain e-mails.md",
-    "Osint/Obtain information/Facial recognition.md",
-    "Untitled.canvas",
-    "Scan/Fuzzing/Active way",
-    "Scan/Fuzzing/Passive way",
-    "Osint",
-    "CMS 🌐/WordPress/Pasted image 20250126173135.png"
+    "02 - Networking Concepts/services",
+    "Untitled.canvas"
   ]
 }

@@ -3,7 +3,9 @@
   "theme": "system",
   "accentColor": "#a269e8",
   "enabledCssSnippets": [
-    "moreno-images"
+    "moreno-images",
+    "Colored-Siderbar-Items",
+    "Colored Sidebar Items"
   ],
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font Mono"
