@@ -1,6 +1,6 @@
-<h3 aling="center>
+<h3 align="center">
     <a href="https://github.com/SebastianSalasR/HackingCourses">
-        <img src="https://raw.githubusercontent.com/SebastianSalasR/HackingCourses/refs/heads/main/images/image.png?token=GHSAT0AAAAAADAPEONAH4XBBVC5V5BB3ZEMZ63PYAQ" align="center" alt="Unleashed Firmware Logo" border="0">  
+        <img src="https://raw.githubusercontent.com/SebastianSalasR/HackingCourses/main/images/image.png" align="center" alt="Notes screenshot" border="0">  
     </a>
 </h3>
 
@@ -23,3 +23,7 @@ To use the notes properly, you have to open the **Notes** folder using obsidian 
 2. Latex Suite
 3. Style Settings
 
+### Appearance settings
+
+- Theme: Blue Topaz
+- Interface and Text font: Hack
