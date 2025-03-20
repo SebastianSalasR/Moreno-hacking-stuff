@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaExplosiveMaterials",
-      "LiScanText",
-      "LiSearch",
-      "LiScanEye",
-      "LiNetwork"
+      "RaCrackedShield",
+      "LiAlbum",
+      "RaExplosion",
+      "RaBombExplosion",
+      "RaExplosiveMaterials"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,7 @@
   "02 - Networking Concepts": "LiNetwork",
   "04 - Scan": "LiScanText",
   "03 - Osint": "LiScanEye",
-  "00 - Basic concepts about enumeration and exploiting": "RaExplosiveMaterials"
+  "00 - Basic concepts about enumeration and exploiting": "RaExplosiveMaterials",
+  "01 - CMS": "LiAlbum",
+  "05 - vulnerabilities": "RaCrackedShield"
 }

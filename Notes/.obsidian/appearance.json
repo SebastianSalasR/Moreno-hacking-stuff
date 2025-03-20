@@ -1,12 +1,12 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "theme": "system",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
   "accentColor": "#a269e8",
   "enabledCssSnippets": [
     "moreno-images",
     "Colored-Siderbar-Items",
     "Colored Sidebar Items"
   ],
-  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono"
+  "interfaceFontFamily": "Hack,JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "Hack,JetBrainsMono Nerd Font Mono"
 }
