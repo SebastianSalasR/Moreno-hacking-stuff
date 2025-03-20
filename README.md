@@ -2,7 +2,7 @@
 
 <h3 aling="center>
     <a href="https://github.com/SebastianSalasR/HackingCourses">
-        <img src="https://github.com/user-attachments/assets/466c40d5-f6a1-444d-a235-d9026f7cd0ff" align="center" alt="Unleashed Firmware Logo" border="0">  
+        <img src="https://raw.githubusercontent.com/SebastianSalasR/HackingCourses/refs/heads/main/images/image.png?token=GHSAT0AAAAAADAPEONAH4XBBVC5V5BB3ZEMZ63PYAQ" align="center" alt="Unleashed Firmware Logo" border="0">  
     </a>
 </h3>
 
