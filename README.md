@@ -11,7 +11,7 @@ This is personal repository to store my notes related to networking and hacking
 
 ### How to use the notes:
 
-To use the notes properly, you have to open the **Notes** folder using obsidian with the following plugins:
+To use the notes properly, you have to open the **Notes** folder **using obsidian** with the following plugins:
 
 1. Iconize
 2. Latex Suite
