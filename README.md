@@ -1,4 +1,4 @@
-![alt text](https://github.com/SebastianSalasR/HackingCourses/blob/main/images/image.png?raw=true)
+![alt text](https://github.com/SebastianSalasR/Moreno-hacking-stuff/blob/main/images/image.png?raw=true)
 
 # Moreno's notes and scripts hacking stuff
 
