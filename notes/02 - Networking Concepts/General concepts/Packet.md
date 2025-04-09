@@ -34,7 +34,7 @@ Only certain network protocols attach trailers or footers to packets; most only 
 
 ---
 ## 🌍 What is an IP packet?
-**Packets are sometimes defined by the protocol they are using**. A packet with an [[Internet Protocol (IP)]] header can be referred to as an "IP packet." An IP header contains important information about where a packet is from (its source IP address), where it is going (destination IP address), how large the packet is, and how long network routers should continue to forward the packet before dropping it. It may also indicate whether or not the packet can be fragmented, and include information about reassembling fragmented packets.
+**Packets are sometimes defined by the protocol they are using**. A packet with an [[IP]] header can be referred to as an "IP packet." An IP header contains important information about where a packet is from (its source IP address), where it is going (destination IP address), how large the packet is, and how long network routers should continue to forward the packet before dropping it. It may also indicate whether or not the packet can be fragmented, and include information about reassembling fragmented packets.
 
 ---
 ## 🛡️ How to Detect Malicious Network Traffic?

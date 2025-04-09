@@ -4,6 +4,8 @@ tags:
   - "#transport-layer"
   - "#networking"
   - "#udp"
+aliases:
+  - Transmission Control Protocol
 ---
 
 ##  🪶 Definition

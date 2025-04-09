@@ -6,6 +6,8 @@ tags:
   - "#networking"
   - "#routing"
   - "#subnetting"
+aliases:
+  - Internet Protocol
 ---
 
 ## 📘 Definition
