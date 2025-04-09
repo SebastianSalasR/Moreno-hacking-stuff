@@ -436,5 +436,7 @@ nmap -sS -f target.com
 
 `-sS` is **one of the best scanning techniques** for speed and stealth. Pair it with **fragmentation (`-f`) or decoys (`-D`)** for better evasion. 🚀
 
+---
+
 ### References
 [^2]: This options are used for firewall evasion
